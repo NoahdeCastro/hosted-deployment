@@ -1,0 +1,71 @@
+.header {
+    display: list-item;
+    padding-top: 10px;
+}
+li {
+    position: relative;
+    left: 600px;
+    top: 13px;
+}
+.navbar-brand {
+    position: relative;
+    background-color: #4aaaa5;
+    font-family: 'Georgia', Times, 'Times New Roman', serif;
+    left: 192px;
+    padding: 40px;
+    color: #ffffff;
+    margin: 5px;
+    top: 13px;
+}
+.container1 {
+    display: block;
+    margin: 200px;
+    padding: 10px;
+    margin-top: 27px;
+    background-color:#ffffff;
+
+}
+img {
+    float: left;
+    padding: 1%;
+    padding-right: 10px;
+}
+body {
+    background-image: url(https://www.fg-a.com/wallpapers/white-marble-1-2018.jpg)
+}
+.navbar-brand-mb-0-h1 {
+    position: relative;
+    left: 200px;
+    background-color: #666666;
+}
+.navbar-navbar-light-bg-light {
+    background-color: #666666;
+    padding: 12px;
+    border-color: #4aaaa5;
+    border-width: 200px;
+}
+h2 {
+    color: #4aaaa5;
+    font-family: 'Georgia', Times, 'Times New Roman', serif;
+    
+}
+.text-center {
+    display: inline-block;
+    margin: 250px;
+    padding: 10px;
+    margin-top: 27px;
+    background-color:#ffffff;
+    
+
+}
+form {
+    color: #4aaaa5;
+    display: block;
+    margin: 200px;
+    padding: 10px;
+    margin-top: 27px;
+    background-color:#ffffff;
+}
+label {
+    color: #666666;
+}
